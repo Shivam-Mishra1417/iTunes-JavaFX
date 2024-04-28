@@ -46,7 +46,7 @@ import javafx.stage.Stage;
  * Represents an iTunes Gallery App.
  */
 /**
- * @author Alizah Thompson
+ * @author Shivam Mishra
  */
 public class GalleryApp extends Application {
 
